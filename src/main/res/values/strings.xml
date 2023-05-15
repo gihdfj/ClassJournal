@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClassJournal</string>
+    <string name="new_user_signup"> <b>Регистрация</b></string>
+</resources>
